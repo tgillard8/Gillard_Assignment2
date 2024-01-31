@@ -1,5 +1,5 @@
 # Gillard_Assignment2
-###Assignment 2 submission
+### Assignment 2 submission**
 
 ##Username and Password Generator
 This python script makes usernames and passwords for students based off of input information, including phone numbers, student names, and last names. 
